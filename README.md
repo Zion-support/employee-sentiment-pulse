@@ -1,23 +1,32 @@
-# 💓 Zion Employee Sentiment Pulse
+# 💬 Employee Sentiment Pulse
 
-Continuous engagement pulses, eNPS and attrition-risk signals — privacy-first. Part of the **Zion HR & Workforce AI Suite (Batch 72)**.
+Continuous engagement analytics — part of the **Zion Tech Group AI App Network** (320+ free flagship apps).
+
+- 🌐 Live app: https://ziontechgroup.com/employee-sentiment-pulse/
+- 🧭 Free Discovery (online & free, instant results emailed to you): https://ziontechgroup.com/discovery/
+- 🗂️ Network hub: https://github.com/Zion-support/zion-network · Showcase: https://ziontechgroup.com/apps/network.html
 
 ## What it does
-- Runs lightweight recurring pulse surveys and eNPS
-- Anonymized sentiment trends by team, location and tenure
-- Early-warning attrition and burnout signals for managers
-- Action recommendations and follow-up tracking
+Anonymous pulse surveys with NLP theme detection, burnout early-warnings and manager action playbooks; correlates sentiment with attrition and scheduling data from [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai).
 
 ## Key features
-- Anonymous-by-design aggregation (min-group thresholds)
-- Slack/Teams/Email distribution, multi-language
-- Feeds onboarding quality signals to [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot)
-- Scheduling insights pair with [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai)
+- Anonymous-by-design survey engine (Slack/Teams/email)
+- NLP theme clustering with trend detection
+- Manager playbooks, eNPS tracking, HRIS connectors
 
-## 🔗 Zion App Network
-- Suite hub: [zion-network](https://github.com/Zion-support/zion-network) · [network.json](https://github.com/Zion-support/zion-network/blob/main/network.json)
-- Sister apps: [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) · [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot) · [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai)
-- 🌐 [ziontechgroup.com](https://ziontechgroup.com) · [Plans](https://ziontechgroup.com/plans/) · [Discovery call ($99)](https://ziontechgroup.com/discovery/)
+## HR & Workforce AI suite (Batch 72)
+| App | Focus |
+|---|---|
+| [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai) | Fair, compliant scheduling |
+| [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) | Bias-aware candidate screening |
+| **Employee Sentiment Pulse** (this repo) | Engagement analytics |
+| [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot) | Guided onboarding |
 
-## License
-MIT — © Zion Tech Group
+## Adjacent suites
+- **Energy & Facilities AI:** [Energy Consumption Forecaster](https://github.com/Zion-support/energy-consumption-forecaster) · [Solar ROI Optimizer](https://github.com/Zion-support/solar-roi-optimizer) · [Grid Demand Balancer](https://github.com/Zion-support/grid-demand-balancer) · [Building Efficiency Auditor](https://github.com/Zion-support/building-efficiency-auditor)
+- **ITOps AI:** [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor) · [AI Capacity Planner](https://github.com/Zion-support/ai-capacity-planner) · [AI Cluster Manager](https://github.com/Zion-support/ai-cluster-manager) · [AI Backup Integrity](https://github.com/Zion-support/ai-backup-integrity)
+
+---
+- 🏠 https://ziontechgroup.com · 💰 Plans: https://ziontechgroup.com/en/plans/ · 💼 commercial@ziontechgroup.com
+
+© 2026 Zion Tech Group — MIT
