@@ -1,32 +1,23 @@
-# Employee Sentiment Pulse 📈
+# 💓 Zion Employee Sentiment Pulse
 
-**Continuous engagement pulse surveys, eNPS tracking and attrition-risk early warning.**
+Continuous engagement pulses, eNPS and attrition-risk signals — privacy-first. Part of the **Zion HR & Workforce AI Suite (Batch 72)**.
 
-Part of the **Zion App Network — Batch 62 (HR & Workforce AI)** by [Zion Tech Group](https://ziontechgroup.com/).
+## What it does
+- Runs lightweight recurring pulse surveys and eNPS
+- Anonymized sentiment trends by team, location and tenure
+- Early-warning attrition and burnout signals for managers
+- Action recommendations and follow-up tracking
 
-- 🌐 Live page: https://ziontechgroup.com/employee-sentiment-pulse/
-- 🗂️ App Network hub: https://github.com/Zion-support/zion-network · https://network.ziontechgroup.com
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 🔎 Free AI Discovery: https://ziontechgroup.com/discovery/
+## Key features
+- Anonymous-by-design aggregation (min-group thresholds)
+- Slack/Teams/Email distribution, multi-language
+- Feeds onboarding quality signals to [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot)
+- Scheduling insights pair with [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai)
 
-## Features
-- Micro pulse surveys via email/Slack/Teams
-- eNPS and engagement trend dashboards
-- Attrition-risk early-warning signals
-- Anonymous comment theme clustering
-- Manager action-plan recommendations
+## 🔗 Zion App Network
+- Suite hub: [zion-network](https://github.com/Zion-support/zion-network) · [network.json](https://github.com/Zion-support/zion-network/blob/main/network.json)
+- Sister apps: [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) · [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot) · [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai)
+- 🌐 [ziontechgroup.com](https://ziontechgroup.com) · [Plans](https://ziontechgroup.com/plans/) · [Discovery call ($99)](https://ziontechgroup.com/discovery/)
 
-## Batch 62 — HR & Workforce AI (sibling apps)
-- [hr-onboarding-copilot](https://github.com/Zion-support/hr-onboarding-copilot) — https://ziontechgroup.com/hr-onboarding-copilot/
-- [shift-scheduler-ai](https://github.com/Zion-support/shift-scheduler-ai) — https://ziontechgroup.com/shift-scheduler-ai/
-- [skills-gap-analyzer](https://github.com/Zion-support/skills-gap-analyzer) — https://ziontechgroup.com/skills-gap-analyzer/
-- [payroll-anomaly-detector](https://github.com/Zion-support/payroll-anomaly-detector) — https://ziontechgroup.com/payroll-anomaly-detector/
-- [recruiting-screening-ai](https://github.com/Zion-support/recruiting-screening-ai) — https://ziontechgroup.com/recruiting-screening-ai/
-
-## Related apps across the network
-- [review-sentiment-hub](https://github.com/Zion-support/review-sentiment-hub) — sentiment engine patterns
-- [hr-onboarding-copilot](https://github.com/Zion-support/hr-onboarding-copilot) — new-hire pulses
-- [skills-gap-analyzer](https://github.com/Zion-support/skills-gap-analyzer) — engagement vs growth
-
----
-© 2026 Zion Tech Group · https://ziontechgroup.com/ · Start with a [$99 Discovery](https://ziontechgroup.com/discovery/)
+## License
+MIT — © Zion Tech Group
